@@ -1,19 +1,19 @@
 {
-  "title": "boxdox's links",
+  "title": "rajprakash's links",
   "tagline": "i code stuff",
-  "slug": "boxdox",
+  "slug": "rajprakash00",
   "main": true,
-  "profilePicture": "https://avatars.dicebear.com/api/personas/boxdox.svg",
+  "profilePicture": "https://avatars.dicebear.com/api/personas/rajprakash.svg",
   "theme": "dracula",
   "links": [
     {
       "name": "Github",
-      "url": "https://github.com/boxdox",
+      "url": "https://github.com/rajprakash00",
       "icon": "github"
     },
     {
       "name": "Twitter",
-      "url": "https://twitter.com/vaibhav_kandwal",
+      "url": "https://twitter.com/RajprakashSahoo",
       "icon": "twitter"
     }
   ]
